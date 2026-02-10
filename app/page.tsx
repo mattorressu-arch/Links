@@ -43,10 +43,10 @@ export default function Home() {
 
           <div className="flex flex-col items-center justify-center px-6 py-6 gap-2 bg-[#0a0a0a]">
             <span className="text-lg sm:text-xl font-bold">
-              Join PRO Telegram
+              Join Telegram
             </span>
             <span className="text-sm text-gray-400 font-normal text-center leading-relaxed">
-              Access a community of over 1000 traders and investors
+              Access a Telegram channel focused on crypto.
             </span>
           </div>
         </Link>
